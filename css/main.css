@@ -60,8 +60,14 @@ body {
 
 .robot:hover .robot-head-right {
   right: 0;
+  top: 1em;
 }
 
 .robot:hover .robot-head-left {
   left: 0;
+  top: 1em;
+}
+
+.robot:hover .robot-brain {
+  top: 2em;
 }
